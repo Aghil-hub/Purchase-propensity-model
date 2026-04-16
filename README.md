@@ -48,13 +48,14 @@ The target variable is **imbalanced**, with approximately **23% purchasers** and
 
 ```text
 Purchase-propensity-model/
-├── ShopNow-Dataset.csv
-├── Purchase-Propensity-Analysis-Report.pdf
-├── Purchase-Propensity-Analysis_code.pdf
+├── data/
+│   └── ShopNow-Dataset.csv
 ├── images/
 │   ├── model-dollar-value.png
-│   ├── lasso-drivers.png
-│   └── class-imbalance.png
+│   └── lasso-drivers.png
+├── report/
+│   └── Purchase-Propensity-Analysis-Report.pdf
+├── Purchase_Propensity_Analysis.ipynb
 └── README.md
 ```
 
