@@ -151,12 +151,6 @@ This chart compares model performance using business impact rather than accuracy
 
 The Lasso model provides interpretable coefficients that help explain which variables most influence short-term purchase likelihood.
 
-### Class Imbalance
-
-![Class Imbalance](images/class-imbalance.png)
-
-The target variable is imbalanced, with non-purchasers forming the majority of the dataset. This motivated stratified sampling and class imbalance handling during training.
-
 ---
 
 ## Business Insights
